@@ -1,0 +1,6 @@
+## establecemos variables de entornos
+## para conexion a base de datos
+SPRING_DATASOURCE_URL=jdbc:postgresql://localhost:5432/tfdatabase
+SPRING_DATASOURCE_USERNAME=
+SPRING_DATASOURCE_PASSWORD=
+SPRING_DATASOURCE_DB=
